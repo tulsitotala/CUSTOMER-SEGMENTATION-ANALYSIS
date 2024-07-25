@@ -3,9 +3,13 @@
  This project explores customer segmentation analysis using Python libraries such as Pandas, NumPy, and K-Means clustering. The objective is to group customers into distinct segments based on their characteristics, allowing businesses to tailor marketing strategies and enhance customer satisfaction.
 
  Libraries Used
+ 
 Pandas: Essential for data manipulation and analysis, enabling efficient data preprocessing and feature engineering.
+
 NumPy: Provides support for large, multi-dimensional arrays and is used for numerical operations.
+
 Scikit-learn: A comprehensive machine learning library that includes the K-Means clustering algorithm for segmenting customers.
+
 
 Project Overview
 The project follows these key steps:
